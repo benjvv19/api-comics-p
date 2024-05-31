@@ -12,13 +12,15 @@ const puerto = 2004;
 //-----------
 
 
-const { getComics , getComicByid} = require("./controllers/comics.controllers")
+const { getComics , getComicByid } = require("./controllers/comics.controllers")
 
 app.use(cors());
 
 app.get("/",getComics)
 
 app.get("/:id",getComicByid)
+
+
 
 
 

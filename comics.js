@@ -119,7 +119,55 @@ const comics = [
             "precio": "$32.000",
             "imagen": "https://bazingacomics.cl/wp-content/uploads/2024/05/DC-Black-Label-Joker-Killer-Smile-cover.jpg",
             "stock": 17
-        }
+        },
+        {
+            "categoria": "Ficcion",
+            "id": 15,
+            "name": "Superman vol. 04: La verdad sale a la luz",
+            "precio": "$20.475",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726101/resize/570/765?1676006722",
+            "stock": 15
+        },
+        {
+            "categoria": "Animado",
+            "id": 16,
+            "name": "Pequeños Titanes núm. 21",
+            "precio": "$2.600",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726092/resize/570/765?1676006721",
+            "stock": 25
+        },
+        {
+            "categoria": "Animado",
+            "id": 17,
+            "name": "Pequeños Titanes núm. 22",
+            "precio": "$2.366",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726093/resize/570/765?1676006721",
+            "stock": 19
+        },
+        {
+            "categoria": "Accion",
+            "id": 18,
+            "name": "Liga de la Justicia: Rumbo a Crisis Oscura",
+            "precio": "$7.091",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726082/resize/570/765?1676006720",
+            "stock": 31
+        },
+        {
+            "categoria": "Ficcion",
+            "id": 19,
+            "name": "Liga de la Justicia: ¡Salvar la Navidad!",
+            "precio": "$9.401",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726081/resize/570/765?1676006720",
+            "stock": 23
+        },
+        {
+            "categoria": "Misterio",
+            "id": 20,
+            "name": "La Cosa del Pantano vol. 1 de 6 (DC Pocket)",
+            "precio": "$9.200",
+            "imagen": "https://cdnx.jumpseller.com/all-star-comics/image/31726067/resize/570/765?1676006717",
+            "stock": 12
+        },
     ];
 
 module.exports={
